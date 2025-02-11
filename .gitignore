@@ -1,0 +1,19 @@
+# Sanal ortam dizinleri
+.venv/
+venv/
+env/
+
+# PyCharm proje dosyaları
+.idea/
+
+# Derlenmiş Python dosyaları
+__pycache__/
+*.py[cod]
+
+# Resim dosyaları
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
